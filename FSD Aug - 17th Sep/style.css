@@ -1,0 +1,50 @@
+* {
+    margin 0px;
+    padding 0px;
+    color: black;
+}
+
+.main_content {
+    background-color: aquamarine;
+    text-align: center;
+    min-height: 60%;
+    min-width: 100%;
+    max-height: 100%;
+    max-width: 100%;
+}
+
+.paragraph {
+    margin: 0px 300px 0px 300px;
+    line-height: 40px;
+    font-size: 20px;
+    text-align: left;
+    padding: 2px;
+    }
+
+p, em, strong {
+    color: saddlebrown;
+}
+
+.Mark_Image {
+    
+    width: 600px;
+    height: 550px;
+}
+
+.footer {
+    background-color: black;
+    border: 2px solid black;
+    height: 70px;
+}
+
+.footer_heading {
+    color: white;
+    font-size: medium;
+    font-family: sans-serif;
+    text-align: center;
+    }
+
+hr {
+    color: saddlebrown;
+}
+
